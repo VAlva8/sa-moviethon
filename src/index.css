@@ -4,7 +4,7 @@ html, body{
 }
 
 body{
-  font-family: 'Helvetica', sans-serif;
+  font-family: system,-apple-system,".SFNSText-Regular","San Francisco",Roboto,"Segoe UI","Helvetica Neue","Lucida Grande",sans-serif;
   background: #101010;
   color: white;
 }
