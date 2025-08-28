@@ -14,6 +14,10 @@
     box-shadow: 0 0 5px 1px black;
 }
 
+.todayButton:hover{
+    cursor: pointer;
+}
+
 .todayImage{
     filter: invert();
     height: 1.5rem;
@@ -22,7 +26,28 @@
 
 .gridContainer{
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
     padding: 2rem;
     gap: 2rem;
+}
+
+@media (max-width: 950px){
+    .gridContainer{
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+    }
+    
+}
+
+@media (max-width: 750px){
+    .gridContainer{
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+    
+}
+
+@media (max-width: 500px){
+    .gridContainer{
+        grid-template-columns: minmax(0, 1fr);
+    }
+    
 }
