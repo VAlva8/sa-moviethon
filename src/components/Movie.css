@@ -1,0 +1,47 @@
+.movie{
+    background-color: #000000;
+    padding: 1rem;
+    border: 0.1rem solid #303030;
+    border-radius: 0.15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.moviePoster{
+    width: 100%;
+}
+
+.movieTitle{
+    margin: 1rem 0 0;
+    font-size: 1.5rem;
+}
+
+.movieDate{
+    font-size: 1.25rem;
+    margin:0.25rem;
+    font-weight: 400;
+}
+
+.moviePicker{
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0;
+}
+
+.movieService{
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #7D7D7D;
+}
+
+.movieRating{
+    margin: 0 auto 0 0;
+    display: inline-block;
+    padding: 0.15rem 0.3rem;
+    border: 0.1rem solid #ffffff;
+    border-radius: 0.15rem;
+    font-size: 1.1rem;
+}
