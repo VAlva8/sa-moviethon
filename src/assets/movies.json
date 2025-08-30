@@ -1,0 +1,258 @@
+[
+    {
+        "date": "10/1/2025",
+        "person": "Taylor",
+        "title": "Disturbia",
+        "streamingService": "Hoopla",
+        "rating": "PG-13",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTMyNTIxOTQ3M15BMl5BanBnXkFtZTcwMjU2NzAzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/2/2025",
+        "person": "Jose",
+        "title": "Hocus Pocus",
+        "streamingService": "Disney+",
+        "rating": "PG",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BYWRhOThjM2UtNmRhMi00YzFiLWI4MDYtOGQwNGY0ZjFlOGFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/3/2025",
+        "person": "Victor",
+        "title": "Hereditary",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/4/2025",
+        "person": "Taylor",
+        "title": "Hush",
+        "streamingService": "Plex",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BZjQ0YTU4OTQtMTU3Zi00OTdlLTkzN2EtZjlmOTZhNjIwN2VkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/5/2025",
+        "person": "Jose",
+        "title": "Get Out",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/6/2025",
+        "person": "Victor",
+        "title": "The Strangers",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTkxODAyODMwNV5BMl5BanBnXkFtZTcwNzk5Nzk2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/7/2025",
+        "person": "Taylor",
+        "title": "Mickey’s House of Villains",
+        "streamingService": "Owned",
+        "rating": "G",
+        "posterURL": "https://m.media-amazon.com/images/I/71ZL2fH8r0L._UF894,1000_QL80_.jpg"
+    },
+    {
+        "date": "10/8/2025",
+        "person": "Jose",
+        "title": "Scream (1996)",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/9/2025",
+        "person": "Victor",
+        "title": "It Comes At Night",
+        "streamingService": "Plex",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/10/2025",
+        "person": "Taylor",
+        "title": "Corpse Bride",
+        "streamingService": "Rent",
+        "rating": "PG",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/11/2025",
+        "person": "Jose",
+        "title": "28 Days Later",
+        "streamingService": "Pluto",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/12/2025",
+        "person": "Victor",
+        "title": "The Ring",
+        "streamingService": "Hoopla",
+        "rating": "PG-13",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/13/2025",
+        "person": "Taylor",
+        "title": "Sinister",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/14/2025",
+        "person": "Jose",
+        "title": "What We Do In The Shadows",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BY2QxMTFhMzQtZWEzMS00MzI3LWE4NzUtYzAxNzgwNjcwNGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/15/2025",
+        "person": "Victor",
+        "title": "Barbarian",
+        "streamingService": "Netflix",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNWQ5MDgwMzMtNWZhMy00Y2Q4LWI5NTAtODA4MDIzYTExOGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/16/2025",
+        "person": "Taylor",
+        "title": "Jennifer’s Body",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://lumiere-a.akamaihd.net/v1/images/image_22a64aa3.jpeg?region=0%2C0%2C1400%2C2100"
+    },
+    {
+        "date": "10/17/2025",
+        "person": "Jose",
+        "title": "Us",
+        "streamingService": "Netflix",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/18/2025",
+        "person": "Victor",
+        "title": "Smile",
+        "streamingService": "Netflix",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNjFhMzBlNzktMjE2Ni00YTMyLWI2YWUtYmM1N2QxMDQwZmZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/19/2025",
+        "person": "Taylor",
+        "title": "Carrie (1976)",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/20/2025",
+        "person": "Jose",
+        "title": "The Cabin in The Woods",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/21/2025",
+        "person": "Victor",
+        "title": "Longlegs",
+        "streamingService": "Hulu",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BYWFlMjM2Y2YtYjhhNi00ZmU3LTk2ZTUtODljZjY3MjhmMmJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/22/2025",
+        "person": "Taylor",
+        "title": "The Silence of the Lambs",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/23/2025",
+        "person": "Jose",
+        "title": "Sinners",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BYThkYmJiZTQtZGUzMy00OTllLTg1NmYtZmMyZjQ3ODdjYjc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/24/2025",
+        "person": "Victor",
+        "title": "Talk to Me",
+        "streamingService": "Netflix",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/25/2025",
+        "person": "Taylor",
+        "title": "Nosferatu (2024)",
+        "streamingService": "Amazon Prime",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/26/2025",
+        "person": "Jose",
+        "title": "Nope",
+        "streamingService": "Peacock",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/27/2025",
+        "person": "Victor",
+        "title": "MaXXXine",
+        "streamingService": "HBO Max",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/28/2025",
+        "person": "Taylor",
+        "title": "Gone Girl",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/29/2025",
+        "person": "Jose",
+        "title": "The Shining",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/30/2025",
+        "person": "Victor",
+        "title": "The Witch (2015)",
+        "streamingService": "Rent",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "10/31/2025",
+        "person": "All",
+        "title": "Halloween (1978)",
+        "streamingService": "Plex",
+        "rating": "R",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "date": "11/1/2025",
+        "person": "Taylor",
+        "title": "The Nightmare Before Christmas",
+        "streamingService": "Disney+",
+        "rating": "PG",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    }
+]

@@ -1,11 +1,32 @@
 import './Movie.css'
 
-export default function Album(){
-    return  <div className='movie'>
-                <img src="https://m.media-amazon.com/images/M/MV5BNWZkZTU0YzItM2YyZi00NzdiLWEwYWMtZjJhMTFjYmVmYWE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" className="moviePoster" />
-                <h1 className="movieTitle">Movie Title</h1>
-                <h2 className="movieDate">October 1st, 2025</h2>
-                <h2 className="movieService">Netflix</h2>
-                <h2 className="movieRating">R</h2>
+type Movie = {
+    date: string,
+    person: string,
+    title: string,
+    streamingService: string,
+    rating: string,
+    posterURL: string,
+    id: string
+}
+
+export default function Album(props:Movie){
+
+    const date = new Date(props.date)
+
+    const options: Intl.DateTimeFormatOptions = {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+    };
+
+    const formattedDate = new Intl.DateTimeFormat('en-us', options).format(date);
+    
+    return  <div className={`movie ` + props.person} id={props.id}>
+                <img src={props.posterURL} className="moviePoster" />
+                <h1 className="movieTitle">{props.title}</h1>
+                <h2 className="movieDate">{formattedDate}</h2>
+                <h2 className="movieService">{props.streamingService}</h2>
+                <h2 className="movieRating">{props.rating}</h2>
             </div>
 }

@@ -1,19 +1,10 @@
 import './Home.css'
-import today from '../assets/calendar.svg'
 import Movie from './Movie.tsx'
+import movieData from '../assets/movies.json';
 
 export default function Home(){
-    return  <>
-                <div className='todayButton'>
-                    <img className='todayImage' src={today}/>
-                </div>
-                <div className='gridContainer'>
-                    <Movie />
-                    <Movie />
-                    <Movie />
-                    <Movie />
-                    <Movie />
-                    <Movie />
-                </ div>
-            </>
+    
+    return  <div className='gridContainer'>
+                    {movieData.map((movie, index) => <Movie date={movie.date} person={movie.person} title={movie.title} streamingService={movie.streamingService} rating={movie.rating} posterURL={movie.posterURL} key={index} id={movie.date}/>)}
+            </ div>
 }

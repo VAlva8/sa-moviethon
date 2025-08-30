@@ -1,7 +1,6 @@
 .movie{
     background-color: #000000;
     padding: 1rem;
-    border: 0.1rem solid #303030;
     border-radius: 0.15rem;
     display: flex;
     flex-direction: column;
@@ -11,11 +10,19 @@
 
 .moviePoster{
     width: 100%;
+    border-radius: 0.15rem;
 }
 
 .movieTitle{
-    margin: 1rem 0 0;
+    margin: auto 0 0;
     font-size: 1.5rem;
+}
+
+@media (max-width: 500px){
+    .movieTitle{
+        margin: 1rem 0 0;
+        font-size: 1.5rem;
+    }    
 }
 
 .movieDate{
@@ -45,4 +52,17 @@
     border: 0.1rem solid #ffffff;
     border-radius: 0.15rem;
     font-size: 1.1rem;
+}
+
+.Taylor{
+    border: 0.1rem solid #fdc500;
+}
+.Jose{
+    border: 0.1rem solid #6a994e;
+}
+.Victor{
+    border: 0.1rem solid #303030;
+}
+.All{
+    border: 0.1rem solid #f35b04;
 }
