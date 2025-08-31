@@ -23,7 +23,7 @@ export default function Album(props:Movie){
     const formattedDate = new Intl.DateTimeFormat('en-us', options).format(date);
     
     return  <div className={`movie ` + props.person} id={props.id}>
-                <img src={props.posterURL} className="moviePoster" />
+                <img src={props.posterURL} className="moviePoster" draggable="false"/>
                 <h1 className="movieTitle">{props.title}</h1>
                 <h2 className="movieDate">{formattedDate}</h2>
                 <h2 className="movieService">{props.streamingService}</h2>
