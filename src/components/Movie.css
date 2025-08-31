@@ -8,13 +8,44 @@
     max-width: 100%;
 }
 
-.movie:first-child{
+.movie:nth-child(1){
     margin-top: 3.75rem;
+}
+.movie:nth-child(2){
+    margin-top: 3.75rem;
+}
+.movie:nth-child(3){
+    margin-top: 3.75rem;
+}
+.movie:nth-child(4){
+    margin-top: 3.75rem;
+}
+
+@media (max-width: 950px){    
+    .movie:nth-child(4){
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 750px){
+    .movie:nth-child(3){
+        margin-top: 0;
+    }    
+}
+
+@media (max-width: 500px){
+    .movie:nth-child(2){
+        margin-top: 0;
+    }
 }
 
 .moviePoster{
     width: 100%;
     border-radius: 0.15rem;
+    -webkit-user-select: none;
+    user-select: none;
+    pointer-events: none;
+    -webkit-touch-callout: none;
 }
 
 .movieTitle{
@@ -42,11 +73,15 @@
     color: #7D7D7D;
 }
 
-.movieTitle, .movieDate, .movieService{
+.movieTitle, .movieDate, .movieService, .movieRating{
     max-width: 100%;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    -webkit-user-select: none;
+    user-select: none;
+    pointer-events: none;
+    -webkit-touch-callout: none;
 }
 
 .movieRating{
