@@ -1,4 +1,6 @@
 .header{
+    position: fixed;
+    width: 100%;
     min-height: 3.25rem;
     padding: 0.25rem 0.75rem;
     background: #000000;
