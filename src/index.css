@@ -8,3 +8,10 @@ body{
   background: #101010;
   color: white;
 }
+
+image{
+  -webkit-user-select: none;
+  user-select: none;
+  pointer-events: none;
+  -webkit-touch-callout: none;
+}

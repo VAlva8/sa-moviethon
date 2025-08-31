@@ -8,12 +8,6 @@
     max-width: 100%;
 }
 
-@media (max-width: 500px){
-    .movie{
-        height: fit-content;
-    }
-}
-
 .movie:nth-child(1){
     margin-top: 3.75rem;
 }
@@ -50,10 +44,6 @@
     height: auto;
     border-radius: 0.15rem;
     object-fit: contain;
-    -webkit-user-select: none;
-    user-select: none;
-    pointer-events: none;
-    -webkit-touch-callout: none;
 }
 
 .movieTitle{
