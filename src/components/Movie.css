@@ -8,6 +8,12 @@
     max-width: 100%;
 }
 
+@media (max-width: 500px){
+    .movie{
+        height: fit-content;
+    }
+}
+
 .movie:nth-child(1){
     margin-top: 3.75rem;
 }
