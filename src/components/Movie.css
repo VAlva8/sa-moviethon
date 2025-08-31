@@ -8,6 +8,10 @@
     max-width: 100%;
 }
 
+.movie:first-child{
+    margin-top: 3.75rem;
+}
+
 .moviePoster{
     width: 100%;
     border-radius: 0.15rem;
