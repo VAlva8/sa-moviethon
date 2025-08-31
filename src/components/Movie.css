@@ -44,6 +44,7 @@
     height: auto;
     border-radius: 0.15rem;
     object-fit: contain;
+    display: block;
 }
 
 .movieTitle{
