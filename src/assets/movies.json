@@ -19,7 +19,7 @@
         "date": "10/3/2025",
         "person": "Victor",
         "title": "Hereditary",
-        "streamingService": "Rent",
+        "streamingService": "HBO Max",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
@@ -27,7 +27,7 @@
         "date": "10/4/2025",
         "person": "Taylor",
         "title": "Hush",
-        "streamingService": "Plex",
+        "streamingService": "Plex/Owned",
         "rating": "R",
         "posterURL": "https://i.ebayimg.com/images/g/~UgAAOSwmDNnlCAS/s-l1200.jpg"
     },
@@ -59,7 +59,7 @@
         "date": "10/8/2025",
         "person": "Jose",
         "title": "Scream (1996)",
-        "streamingService": "HBO Max",
+        "streamingService": "Paramount+",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_FMjpg_UX1000_.jpg"
     },
@@ -67,7 +67,7 @@
         "date": "10/9/2025",
         "person": "Victor",
         "title": "It Comes At Night",
-        "streamingService": "Plex",
+        "streamingService": "HBO Max",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_FMjpg_UX1000_.jpg"
     },
@@ -75,7 +75,7 @@
         "date": "10/10/2025",
         "person": "Taylor",
         "title": "Corpse Bride",
-        "streamingService": "Rent",
+        "streamingService": "HBO Max",
         "rating": "PG",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_FMjpg_UX1000_.jpg"
     },
@@ -91,7 +91,7 @@
         "date": "10/12/2025",
         "person": "Victor",
         "title": "The Ring",
-        "streamingService": "Hoopla",
+        "streamingService": "Paramount+",
         "rating": "PG-13",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_FMjpg_UX1000_.jpg"
     },
@@ -99,7 +99,7 @@
         "date": "10/13/2025",
         "person": "Taylor",
         "title": "Sinister",
-        "streamingService": "Rent",
+        "streamingService": "Roku Channel/Rent",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_FMjpg_UX1000_.jpg"
     },
@@ -115,7 +115,7 @@
         "date": "10/15/2025",
         "person": "Victor",
         "title": "Barbarian",
-        "streamingService": "Netflix",
+        "streamingService": "Rent",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BNWQ5MDgwMzMtNWZhMy00Y2Q4LWI5NTAtODA4MDIzYTExOGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
@@ -123,7 +123,7 @@
         "date": "10/16/2025",
         "person": "Taylor",
         "title": "Jennifer’s Body",
-        "streamingService": "Rent",
+        "streamingService": "Hulu",
         "rating": "R",
         "posterURL": "https://akns-images.eonline.com/eol_images/Entire_Site/2019817/rs_634x1024-190917124245-634x1024-jennifersbody-gj-9-17-19.jpg"
     },
@@ -131,7 +131,7 @@
         "date": "10/17/2025",
         "person": "Jose",
         "title": "Us",
-        "streamingService": "Netflix",
+        "streamingService": "Rent",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
@@ -147,7 +147,7 @@
         "date": "10/19/2025",
         "person": "Taylor",
         "title": "Carrie (1976)",
-        "streamingService": "HBO Max",
+        "streamingService": "Rent",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
@@ -155,7 +155,7 @@
         "date": "10/20/2025",
         "person": "Jose",
         "title": "The Cabin in The Woods",
-        "streamingService": "HBO Max",
+        "streamingService": "Rent",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_FMjpg_UX1000_.jpg"
     },
@@ -219,7 +219,7 @@
         "date": "10/28/2025",
         "person": "Taylor",
         "title": "Gone Girl",
-        "streamingService": "Rent",
+        "streamingService": "HBO Max",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_FMjpg_UX1000_.jpg"
     },
@@ -235,7 +235,7 @@
         "date": "10/30/2025",
         "person": "Victor",
         "title": "The Witch (2015)",
-        "streamingService": "Rent",
+        "streamingService": "HBO Max",
         "rating": "R",
         "posterURL": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_FMjpg_UX1000_.jpg"
     },
