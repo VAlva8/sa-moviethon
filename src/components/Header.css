@@ -3,13 +3,13 @@
     width: 100%;
     min-height: 3.25rem;
     padding: 0.25rem 0.75rem;
-    background: #000000;
-    border-bottom: 0.1rem solid #303030;
     display: flex;
     align-items: center;
     gap: 0.5rem;
     user-select: none;
     box-shadow: 0 2px 5px 1px black;
+    backdrop-filter: blur(10px) brightness(0.75);
+    border: 0.1rem solid rgba(30, 30, 30, 0.25);
 }
 
 .headerLogo{

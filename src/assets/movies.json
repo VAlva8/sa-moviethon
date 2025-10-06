@@ -162,10 +162,10 @@
     {
         "date": "10/21/2025",
         "person": "Victor",
-        "title": "Longlegs",
-        "streamingService": "Hulu",
+        "title": "The Lost Boys",
+        "streamingService": "Rent",
         "rating": "R",
-        "posterURL": "https://i.ebayimg.com/images/g/JdsAAOSwAO9nbu8E/s-l1200.jpg"
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "date": "10/22/2025",
@@ -186,10 +186,10 @@
     {
         "date": "10/24/2025",
         "person": "Victor",
-        "title": "Talk to Me",
-        "streamingService": "Netflix",
+        "title": "Bring Her Back",
+        "streamingService": "HBO Max",
         "rating": "R",
-        "posterURL": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_.jpg"
     },
     {
         "date": "10/25/2025",
@@ -210,10 +210,10 @@
     {
         "date": "10/27/2025",
         "person": "Victor",
-        "title": "MaXXXine",
-        "streamingService": "HBO Max",
-        "rating": "R",
-        "posterURL": "https://m.media-amazon.com/images/M/MV5BNjBmYzFmODktNDIyZC00NWFmLTk2NTctYmZiY2E2OTA2OTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+        "title": "Incantation",
+        "streamingService": "Netflix",
+        "rating": "TV-MA",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BY2U2YjU0M2MtZjIxZC00ZDZjLWI2NjItN2MwMmVhM2RkMjNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "date": "10/28/2025",
