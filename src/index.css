@@ -6,8 +6,7 @@ html, body{
 
 body{
   font-family: system,-apple-system,".SFNSText-Regular","San Francisco",Roboto,"Segoe UI","Helvetica Neue","Lucida Grande",sans-serif;
-  background: url(./assets/background.png);
-  background-size: 40em ;
+  background: #000;
   color: white;
 }
 
